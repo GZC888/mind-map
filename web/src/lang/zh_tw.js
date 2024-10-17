@@ -67,7 +67,8 @@ export default {
     edge: '邊緣',
     rainbowLines: '彩虹線條',
     notUseRainbowLines: '不使用彩虹線條',
-    outerFramePadding: '外框內距'
+    outerFramePadding: '外框內距',
+    openRealtimeRenderOnNodeTextEdit: '開啟文本編輯實時渲染效果'
   },
   color: {
     moreColor: '更多顏色'
@@ -214,7 +215,6 @@ export default {
     text: '文字',
     fontFamily: '字型',
     fontSize: '字型大小',
-    lineHeight: '行高',
     color: '顏色',
     addFontWeight: '粗體',
     italic: '斜體',

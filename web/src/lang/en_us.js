@@ -67,7 +67,8 @@ export default {
     edge: 'Edge',
     rainbowLines: 'Rainbow lines',
     notUseRainbowLines: 'Not use rainbow lines',
-    outerFramePadding: 'Outer frame padding'
+    outerFramePadding: 'Outer frame padding',
+    openRealtimeRenderOnNodeTextEdit: 'Enable real-time rendering effect for text editing'
   },
   color: {
     moreColor: 'More color'
@@ -216,7 +217,6 @@ export default {
     text: 'Text',
     fontFamily: 'Font family',
     fontSize: 'Font size',
-    lineHeight: 'Line height',
     color: 'color',
     addFontWeight: 'add font weight',
     italic: 'Italic',
